@@ -15,10 +15,10 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Rahul
-            <br className="hidden lg:inline-block" />I'm a web developer.
+            <br className="hidden lg:inline-block" /> I'm a web developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I specialize in ReactJS and other Frontend technologies. Check out my{' '}
+            I specialize in ReactJS and other Fron-tend technologies. Check out my{' '}
             <Link to="/projects" className="text-indigo-400 hover:text-indigo-500">
               projects
             </Link>{' '}
